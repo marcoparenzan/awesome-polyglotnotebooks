@@ -2,7 +2,7 @@
 
 # The beginning
 ## .NET Interactive
-[https://github.com/dotnet/interactive] GitHub
+[GitHub](https://github.com/dotnet/interactive)
 ## Visual Studio Code
 [https://code.visualstudio.com/] Website
 [https://github.com/microsoft/vscode] GitHub
