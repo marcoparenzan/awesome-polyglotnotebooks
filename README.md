@@ -4,11 +4,11 @@
 ## .NET Interactive
 [GitHub](https://github.com/dotnet/interactive)
 ## Visual Studio Code
-[https://code.visualstudio.com/] Website
-[https://github.com/microsoft/vscode] GitHub
+[Website](https://code.visualstudio.com/)
+[GitHub](https://github.com/microsoft/vscode)
 
 ## Great libraries
 ### AngouriMath
-[https://github.com/asc-community/AngouriMath] GitHub
+[GitHub](https://github.com/asc-community/AngouriMath)
 ### CSharpMath
-[https://github.com/verybadcat/CSharpMath/] GitHub
+[GitHub](https://github.com/verybadcat/CSharpMath)
